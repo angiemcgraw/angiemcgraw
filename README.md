@@ -1,16 +1,20 @@
-## Hi there 👋
+# Angie McGraw
 
-<!--
-**angiemcgraw/angiemcgraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS Computer Science student researching quantum simulation and compiler verification. Previously computational biology research across the Broad Institute, Dana-Farber Cancer Institute, and the NIH.
 
-Here are some ideas to get you started:
+**Boston, MA** • [angiebmcgraw@gmail.com](mailto:angiebmcgraw@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Education
+- Northeastern University - M.S. Computer Science (2025-2026)
+- Oregon Health & Science University - M.S. Bioinformatics and Computational Biomedicine (2020-2023)
+- Portland State University - B.S. Computer Science (2017-2020)
+
+### Experience
+- The Dong Theoretical and Computational Chemistry Lab, Northeastern University - Graduate Student Researcher (2026-Present)
+- Broad Institute of MIT & Harvard - Research Affiliate (2023-2025)
+- Dana-Farber Cancer Institute & Harvard Medical School - Computational Biologist (2023-2025)
+- National Institutes of Health - Post-Baccalaureate Research Fellow (2022-2025)
+
+---
