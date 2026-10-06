@@ -15,6 +15,6 @@ MS Computer Science student researching quantum simulation and compiler verifica
 - The Dong Theoretical and Computational Chemistry Lab, Northeastern University - Graduate Student Researcher (2026-Present)
 - Broad Institute of MIT & Harvard - Research Affiliate (2023-2025)
 - Dana-Farber Cancer Institute & Harvard Medical School - Computational Biologist (2023-2025)
-- National Institutes of Health - Post-Baccalaureate Research Fellow (2022-2025)
+- National Institutes of Health - Post-Baccalaureate Research Fellow, Research Affiliate (2022-2025)
 
 ---
